@@ -6,7 +6,7 @@ const Logo = () => {
     <div className="logo-block">
       <h2>Design</h2>
       <a href="/">
-        <img src="/images/logo.png" alt="logo" />
+        <img src="./images/logo.png" alt="logo" />
       </a>
     </div>
   );

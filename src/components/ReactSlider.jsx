@@ -5,8 +5,8 @@ import "slick-carousel/slick/slick-theme.css";
 import './css/ReactSlider.css'
 
 const images = [
-  '/images/header01.png',
-  '/images/header02.png',
+  './images/header01.png',
+  './images/header02.png',
 ];
 
 const ReactSlider = () => {
